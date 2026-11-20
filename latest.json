@@ -1,0 +1,7 @@
+{
+ "version": "1.18.42",
+ "notes": "Game art now refreshes itself: pictures saved more than a week ago are downloaded again in the background and replaced with the newer ones.",
+ "file": "GodmodeSetup.exe",
+ "size": 7179052,
+ "sha256": "33ea9aa8e8d230ea941a1b9a843ecd3cf3de2422073a59349112e607580450ad"
+}
